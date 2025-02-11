@@ -1,0 +1,52 @@
+{
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "artist": "Abel Tesfaye",
+      "image": "https://th.bing.com/th/id/OIF.54xuWsfW4if5JiuHxuEBmw?rs=1&pid=ImgDetMain",
+      "song": { "title": "Blinding Lights", "url": "/songs/BlindingLights.mp3" }
+    },
+    {
+      "name": "Taylor Swift",
+      "artist": "Taylor Swift",
+      "image": "https://th.bing.com/th/id/OIP.6ZFvhnFCkWC9ducGoAX_yAHaL2?rs=1&pid=ImgDetMain",
+      "song": { "title": "Love Story", "url": "/songs/LoveStory.mp3" }
+    },
+    {
+      "name": "Drake",
+      "artist": "Aubrey Drake Graham",
+      "image": "https://th.bing.com/th/id/OIP.F8unaO1mOkmagBhdVqa6jAHaE8?rs=1&pid=ImgDetMain",
+      "song": { "title": "God's Plan", "url": "/songs/GodsPlan.mp3" }
+    },
+    {
+      "name": "Billie Eilish",
+      "artist": "Billie Eilish Pirate Baird O'Connell",
+      "image": "https://tse1.mm.bing.net/th?q=Jpg%20Pics%20Of%20Billie%20Eilish%202024&w=1280&h=720&c=5&rs=1&p=0",
+      "song": { "title": "Bad Guy", "url": "/songs/BadGuy.mp3" }
+    },
+    {
+      "name": "Ed Sheeran",
+      "artist": "Edward Christopher Sheeran",
+      "image": "https://www.nme.com/wp-content/uploads/2022/11/ed-sheeran-2000x1270-1.jpg",
+      "song": { "title": "Shape of You", "url": "/songs/ShapeOfYou.mp3" }
+    },
+    {
+      "name": "Post Malone",
+      "artist": "Austin Richard Post",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Post_Malone_2018.jpg/1200px-Post_Malone_2018.jpg",
+      "song": { "title": "Circles", "url": "/songs/Circles.mp3" }
+    },
+    {
+      "name": "Dua Lipa",
+      "artist": "Dua Lipa",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1356296274.jpg",
+      "song": { "title": "Levitating", "url": "/songs/Levitating.mp3" }
+    },
+    {
+      "name": "Bruno Mars",
+      "artist": "Peter Gene Hernandez",
+      "image": "https://www.kemifilani.ng/wp-content/uploads/2022/09/Bruno-Mars-net-worth-2048x1303.jpg",
+      "song": { "title": "Uptown Funk", "url": "/songs/UptownFunk.mp3" }
+    }
+  ]
+}

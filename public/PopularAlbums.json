@@ -1,0 +1,82 @@
+{
+    "popularAlbums": [
+    {
+      "title": "Kabir Singh",
+      "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202212/Kabir-Singh_1670219891.jpg",
+      "year": 2019,
+      "type": "album",
+      "songs": [
+        { "title": "Bekhayali", "url": "/Songs/Kabir_singh_Sad_heart_touching_bgm_background_music_Full_hd_Quality(128k).mp3" },
+        { "title": "Tera Ban Jaunga", "url": "/songs/TeraBanJaunga.mp3" },
+        { "title": "Kaise Hua", "url": "/songs/KaiseHua.mp3" }
+      ]
+    },
+    {
+      "title": "Ae Dil Hai Mushkil",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTZmNGIwYmMtNzA4Ny00ZWM2LWJmZjEtMDhjNmMxYTUxOGJmXkEyXkFqcGdeQXVyNjg2NjQ1MDk@._V1_.jpg",
+      "year": 2016,
+      "type": "album",
+      "songs": [
+        { "title": "Channa Mereya", "url": "/Songs/Kyon_-_Barfi_Pritam_Papon_Sunidhi_Ranbir_Priyanka(128k).mp3" },
+        { "title": "Ae Dil Hai Mushkil", "url": "/songs/AeDilHaiMushkil.mp3" },
+        { "title": "Bulleya", "url": "/songs/Bulleya.mp3" }
+      ]
+    },
+    {
+      "title": "Rockstar",
+      "image": "https://th.bing.com/th/id/OIP.J8ppdxaTLc8piLDATbZG6AHaNV?rs=1&pid=ImgDetMain",
+      "year": 2011,
+      "type": "album",
+      "songs": [
+        { "title": "Tum Ho", "url": "/Songs/Rockstar__Tum_Ho_Lyrical_Video_Song___Ranbir_Kapoor___Nargis_Fakhri___T-Series(128k).mp3" },
+        { "title": "Kun Faya Kun", "url": "/Songs/Kun_Faya_Kun_Full_Video_Song_Rockstar___Ranbir_Kapoor___A.R._Rahman%2C_Javed_Ali%2C_Mohit_Chauhan(128k).mp3" }
+
+      ]
+    }
+  ],
+    "popularSingles": [
+      {
+        "title": "Raataan Lambiyan",
+        "image": "https://th.bing.com/th/id/OIP.sXh9mQT3wjhlNOY88CLhPAHaHa?rs=1&pid=ImgDetMain",
+        "artist": "Jubin Nautiyal",
+        "year": 2021,
+        "type": "single"
+      },
+      {
+        "title": "Vaaste",
+        "image": "https://newsd.in/wp-content/uploads/2021/04/Vaaste-1.jpg",
+        "artist": "Dhvani Bhanushali",
+        "year": 2019,
+        "type": "single"
+      },
+      {
+        "title": "Lut Gaye",
+        "image": "https://1.bp.blogspot.com/-_cXV-r6-EcI/YCv93sg6yHI/AAAAAAAAKg0/S13Dd3oQ2vcz28E4c7pKneeE_saRyQn1wCNcBGAsYHQ/s1280/lut-gaye-lyrics-jubin-nautiyal.jpg",
+        "artist": "Jubin Nautiyal",
+        "year": 2021,
+        "type": "single"
+      },
+      {
+        "title": "Raataan Lambiyan",
+        "image": "https://i.ytimg.com/vi/gvyUuxdRdR4/maxresdefault.jpg",
+        "artist": "Jubin Nautiyal",
+        "year": 2021,
+        "type": "single"
+      },
+      {
+        "title": "Vaaste",
+        "image": "https://newsd.in/wp-content/uploads/2021/04/Vaaste-1.jpg",
+        "artist": "Dhvani Bhanushali",
+        "year": 2019,
+        "type": "single"
+      },
+      {
+        "title": "Lut Gaye",
+        "image": "https://1.bp.blogspot.com/-_cXV-r6-EcI/YCv93sg6yHI/AAAAAAAAKg0/S13Dd3oQ2vcz28E4c7pKneeE_saRyQn1wCNcBGAsYHQ/s1280/lut-gaye-lyrics-jubin-nautiyal.jpg",
+        "artist": "Jubin Nautiyal",
+        "year": 2021,
+        "type": "single"
+      }
+    ]
+  }
+  
